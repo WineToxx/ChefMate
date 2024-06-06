@@ -4,3 +4,6 @@ A generative AI model developed with PartyRock. It crafts personalized three-cou
 
 # BLOG POST
 https://community.aws/content/2dBprSx17kdT4dsWnJ29IKicmTd/chefmate
+
+# Want to try it yourself?
+https://partyrock.aws/u/lana-k/C9zYF7FpM/ChefMate
